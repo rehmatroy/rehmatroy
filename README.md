@@ -10,12 +10,14 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-👨‍💻 About Me
+# **👨‍💻 About Me**
+
+---
 
 - 🔭 Currently working on **The Golden Peak Tours Pakistan**
 - 🌱 Currently learning **AI Automation & AI Agents**
 - 💼 Experienced in **Full-Stack Development, WordPress & Webflow**
-- 🚀 Passionate about building fast, scalable and SEO-friendly web applications
+- 🚀 Passionate about building fast, scalable, and SEO-friendly web applications
 - 💬 Ask me about **React, Next.js, Node.js, WordPress, Webflow & CMS Development**
 - 📫 Reach me at **rehmatroy000@gmail.com**
 - 🌐 Portfolio: https://my-updated-portfolio-website.netlify.app
@@ -23,9 +25,28 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-🚀 Tech Stack
+# **💼 Services I Offer**
 
- Frontend
+---
+
+- 🌐 Full-Stack Web Development
+- ⚛️ React.js & Next.js Applications
+- 🟢 Node.js & Express.js Backend Development
+- 📝 WordPress Website Development
+- 🎨 Webflow Website Development
+- 🔌 REST API Development & Integration
+- 🤖 AI Automation & Workflow Solutions
+- 📱 Responsive & Mobile-First Design
+- 🚀 Website Performance & SEO Optimization
+- 🔧 Website Maintenance & Bug Fixes
+
+---
+
+# **🚀 Tech Stack**
+
+---
+
+## 🎨 Frontend
 
 - HTML5
 - CSS3
@@ -37,48 +58,38 @@ I build modern, scalable, and high-performing websites and web applications usin
 - Bootstrap
 - Redux
 
----
-
- Backend
+### ⚙️ Backend
 
 - Node.js
 - Express.js
 - REST API
 - Firebase
 
----
-
- Frameworks & Libraries
+### 📚 Frameworks & Libraries
 
 - React
 - Next.js
 - Redux
 - Chart.js
 
----
-
- CMS & No-Code
+### 🌐 CMS & No-Code
 
 - WordPress
 - Webflow
 
----
-
- Databases
+### 🗄️ Databases
 
 - MongoDB
 - MySQL
 - PostgreSQL
 - Firebase Firestore
 
----
-
- Tools & Technologies
+### 🛠️ Tools & Technologies
 
 - Git
 - GitHub
-- Figma
 - VS Code
+- Figma
 - AI Automation
 - API Integration
 - Responsive Design
@@ -86,35 +97,31 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-🌐 Connect With Me
+# **🌐 Connect With Me**
+
+---
 
 <p align="left">
-
-<a href="https://github.com/rehmatroy" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45" />
-</a>
-
-<a href="https://my-updated-portfolio-website.netlify.app/" target="_blank">
-<img src="https://img.icons8.com/color/48/domain.png" width="45"/>
-</a>
-
-<a href="https://linkedin.com/in/rehmat-ali-web-developer" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="https://www.facebook.com/rehmat.roy/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" width="45"/>
-</a>
-
-<a href="https://instagram.com/rehmatali46" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-</a>
-
+<a href="https://github.com/rehmatroy"><img src="https://skillicons.dev/icons?i=github" width="42"/></a>
+<a href="https://my-updated-portfolio-website.netlify.app"><img src="https://img.icons8.com/color/48/domain.png" width="42"/></a>
+<a href="https://linkedin.com/in/rehmat-ali-web-developer"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
+<a href="https://facebook.com/rehmatroy"><img src="https://skillicons.dev/icons?i=facebook" width="42"/></a>
+<a href="https://instagram.com/rehmatali46"><img src="https://skillicons.dev/icons?i=instagram" width="42"/></a>
 </p>
 
 ---
 
-📊 GitHub Stats
+# **📊 GitHub Stats**
+
+---
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmatroy&show_icons=true&layout=compact" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rehmatroy&show_icons=true" />
+</p>
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmatroy" />
@@ -122,8 +129,8 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-✨ Code • Design • Create • Automate • Inspire
+# **✨ Code • Design • Create • Automate • Inspire**
 
-<p align="left">
-Thanks for visiting my profile! Feel free to connect, collaborate, or discuss exciting projects.
-</p>
+---
+
+> Building scalable digital experiences with clean code, modern technologies, and AI-powered solutions. Always learning. Always creating. 🚀
