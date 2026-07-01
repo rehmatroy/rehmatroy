@@ -44,7 +44,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ## **🚀 Tech Stack**
 
-
+---
 
 ### 🎨 Frontend
 
@@ -105,14 +105,12 @@ I build modern, scalable, and high-performing websites and web applications usin
 <a href="https://github.com/rehmatroy"><img src="https://skillicons.dev/icons?i=github" width="42"/></a>
 <a href="https://my-updated-portfolio-website.netlify.app"><img src="https://img.icons8.com/color/48/domain.png" width="42"/></a>
 <a href="https://linkedin.com/in/rehmat-ali-web-developer"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
-<a href="https://facebook.com/rehmatroy"><img src="https://skillicons.dev/icons?i=facebook" width="42"/></a>
 <a href="https://instagram.com/rehmatali46"><img src="https://skillicons.dev/icons?i=instagram" width="42"/></a>
 </p>
 
 ---
 
 ## **📊 GitHub Stats**
-
 
 
 <p align="left">
