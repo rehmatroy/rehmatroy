@@ -12,14 +12,14 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 👨‍💻 About Me
 
- 🔭 Currently working on **The Golden Peak Tours Pakistan**
- 🌱 Currently learning **AI Automation & AI Agents**
- 💼 Experienced in **Full-Stack Development, WordPress & Webflow**
- 🚀 Passionate about building fast, scalable and SEO-friendly web applications
- 💬 Ask me about **React, Next.js, Node.js, WordPress, Webflow & CMS Development**
- 📫 Reach me at **rehmatroy000@gmail.com**
- 🌐 Portfolio: https://my-updated-portfolio-website.netlify.app
- ⚡ Fun Fact: **Always Happy Person 😄**
+- 🔭 Currently working on **The Golden Peak Tours Pakistan**
+- 🌱 Currently learning **AI Automation & AI Agents**
+- 💼 Experienced in **Full-Stack Development, WordPress & Webflow**
+- 🚀 Passionate about building fast, scalable and SEO-friendly web applications
+- 💬 Ask me about **React, Next.js, Node.js, WordPress, Webflow & CMS Development**
+- 📫 Reach me at **rehmatroy000@gmail.com**
+- 🌐 Portfolio: https://my-updated-portfolio-website.netlify.app
+- ⚡ Fun Fact: **Always Happy Person 😄**
 
 ---
 
@@ -102,7 +102,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://facebook.com/rehmatroy" target="_blank">
+<a href="https://www.facebook.com/rehmat.roy/" target="_blank">
 <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
 </a>
 
@@ -115,14 +115,6 @@ I build modern, scalable, and high-performing websites and web applications usin
 ---
 
 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmatroy&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rehmatroy&show_icons=true&locale=en" />
-</p>
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmatroy" />
