@@ -12,7 +12,6 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ## **👨‍💻 About Me**
 
----
 
 - 🔭 Currently working on **The Golden Peak Tours Pakistan**
 - 🌱 Currently learning **AI Automation & AI Agents**
@@ -27,7 +26,6 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ## **💼 Services I Offer**
 
----
 
 - 🌐 Full-Stack Web Development
 - ⚛️ React.js & Next.js Applications
@@ -44,7 +42,6 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ## **🚀 Tech Stack**
 
----
 
 ### 🎨 Frontend
 
@@ -99,7 +96,6 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ## **🌐 Connect With Me**
 
----
 
 <p align="left">
 <a href="https://github.com/rehmatroy"><img src="https://skillicons.dev/icons?i=github" width="42"/></a>
@@ -113,7 +109,6 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ## **📊 GitHub Stats**
 
----
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmatroy" />
@@ -121,7 +116,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-## **✨ Code • Design • Create • Automate • Inspire**
+### **✨ Code • Design • Create • Automate • Inspire**
 
 ---
 
