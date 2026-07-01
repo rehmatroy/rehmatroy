@@ -12,20 +12,20 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 👨‍💻 About Me
 
-- 🔭 Currently working on **The Golden Peak Tours Pakistan**
-- 🌱 Currently learning **AI Automation & AI Agents**
-- 💼 Experienced in **Full-Stack Development, WordPress & Webflow**
-- 🚀 Passionate about building fast, scalable and SEO-friendly web applications
-- 💬 Ask me about **React, Next.js, Node.js, WordPress, Webflow & CMS Development**
-- 📫 Reach me at **rehmatroy000@gmail.com**
-- 🌐 Portfolio: https://my-updated-portfolio-website.netlify.app
-- ⚡ Fun Fact: **Always Happy Person 😄**
+ 🔭 Currently working on **The Golden Peak Tours Pakistan**
+ 🌱 Currently learning **AI Automation & AI Agents**
+ 💼 Experienced in **Full-Stack Development, WordPress & Webflow**
+ 🚀 Passionate about building fast, scalable and SEO-friendly web applications
+ 💬 Ask me about **React, Next.js, Node.js, WordPress, Webflow & CMS Development**
+ 📫 Reach me at **rehmatroy000@gmail.com**
+ 🌐 Portfolio: https://my-updated-portfolio-website.netlify.app
+ ⚡ Fun Fact: **Always Happy Person 😄**
 
 ---
 
 🚀 Tech Stack
 
-🎨 Frontend
+ Frontend
 
 - HTML5
 - CSS3
@@ -39,7 +39,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-⚙️ Backend
+ Backend
 
 - Node.js
 - Express.js
@@ -48,7 +48,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-📚 Frameworks & Libraries
+ Frameworks & Libraries
 
 - React
 - Next.js
@@ -57,14 +57,14 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-🌐 CMS & No-Code
+ CMS & No-Code
 
 - WordPress
 - Webflow
 
 ---
 
-🗄️ Databases
+ Databases
 
 - MongoDB
 - MySQL
@@ -73,7 +73,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
- 🛠️ Tools & Technologies
+ Tools & Technologies
 
 - Git
 - GitHub
@@ -94,7 +94,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 <img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 
-<a href="https://my-updated-portfolio-website.netlify.app" target="_blank">
+<a href="https://my-updated-portfolio-website.netlify.app/" target="_blank">
 <img src="https://img.icons8.com/color/48/domain.png" width="45"/>
 </a>
 
