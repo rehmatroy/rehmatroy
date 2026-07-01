@@ -10,7 +10,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-# **👨‍💻 About Me**
+## **👨‍💻 About Me**
 
 ---
 
@@ -25,7 +25,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-# **💼 Services I Offer**
+## **💼 Services I Offer**
 
 ---
 
@@ -42,11 +42,11 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-# **🚀 Tech Stack**
+## **🚀 Tech Stack**
 
 ---
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 - HTML5
 - CSS3
@@ -97,7 +97,7 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-# **🌐 Connect With Me**
+## **🌐 Connect With Me**
 
 ---
 
@@ -111,17 +111,9 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-# **📊 GitHub Stats**
+## **📊 GitHub Stats**
 
 ---
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmatroy&show_icons=true&layout=compact" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rehmatroy&show_icons=true" />
-</p>
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmatroy" />
@@ -129,8 +121,8 @@ I build modern, scalable, and high-performing websites and web applications usin
 
 ---
 
-# **✨ Code • Design • Create • Automate • Inspire**
+## **✨ Code • Design • Create • Automate • Inspire**
 
 ---
 
-> Building scalable digital experiences with clean code, modern technologies, and AI-powered solutions. Always learning. Always creating. 🚀
+> Building scalable digital experiences with clean code, modern technologies, and AI-powered solutions. Always learning. Always creating.
